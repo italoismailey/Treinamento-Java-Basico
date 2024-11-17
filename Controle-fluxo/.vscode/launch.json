@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ResultadoEscolarTernario",
+            "request": "launch",
+            "mainClass": "ResultadoEscolarTernario",
+            "projectName": "Controle-fluxo_944104e2"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "ResultadoEscolar",
