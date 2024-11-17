@@ -1,6 +1,6 @@
 public class PlanoOperadoraTelefonia {
     public static void main(String[] args) {
-        
+        // sendo CASE sensitive percebi que é necessário informar nas duas condições (M e m)
         String plano = "m"; //M / T
         
         switch (plano) {
@@ -24,9 +24,7 @@ public class PlanoOperadoraTelefonia {
             default: System.out.println("Opção inválida.");
                 break;
         }
-        
-
-
+   
 
     }
 
